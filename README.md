@@ -1,3 +1,3 @@
-# hapi-notes-app-API
+# hapiJS-notes-app-API
 
-## This is repo for online Course on Dicoding.com
+### This is repo for online Course on Dicoding.com
